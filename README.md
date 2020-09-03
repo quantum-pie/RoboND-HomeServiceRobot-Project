@@ -1,5 +1,9 @@
 # Home Service Robot Project
 
+The goal of this project is to launch autonomous robot (Turtlebot)
+in simulated Gazebo environment to provide home service: pick and place operation
+of objects in arbitrary locations.
+
 ## Turtlebot Gazebo
 
 This package loads Turtlebot model into Gazebo world. This robot will be used
