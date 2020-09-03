@@ -33,7 +33,7 @@ This package implements Adaptime Monte-Carlo Localization algorithm, based on pa
 It is assumed that the map of the environment is known in
 advance (for instance, built using `slam_gmapping` package).
 
-In this project `amcl` is ised to localize robot during its home service
+In this project `amcl` is used to localize robot during its home service
 operation.
 
 ## Move Base
